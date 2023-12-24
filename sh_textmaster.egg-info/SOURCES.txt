@@ -1,0 +1,15 @@
+setup.py
+sh_textmaster/__init__.py
+sh_textmaster/sh_utils1.py
+sh_textmaster/sh_utils2.py
+sh_textmaster.egg-info/PKG-INFO
+sh_textmaster.egg-info/SOURCES.txt
+sh_textmaster.egg-info/dependency_links.txt
+sh_textmaster.egg-info/top_level.txt
+sh_textmaster/sh_text_analyzer/__init__.py
+sh_textmaster/sh_text_analyzer/text_analyzer.py
+sh_textmaster/sh_text_miner/__init__.py
+sh_textmaster/sh_text_miner/blog_miner.py
+sh_textmaster/sh_text_miner/insta_miner.py
+sh_textmaster/sh_text_miner/naver_newsminer.py
+sh_textmaster/sh_text_miner/twitter_miner.py
